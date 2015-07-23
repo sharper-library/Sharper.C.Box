@@ -8,8 +8,6 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>dddb9e31-adb7-4879-82a7-779c8a849ed7</ProjectGuid>
     <RootNamespace>Sharper.C</RootNamespace>
-    <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">..\..\artifacts\obj\$(MSBuildProjectName)</BaseIntermediateOutputPath>
-    <OutputPath Condition="'$(OutputPath)'=='' ">..\..\artifacts\bin\$(MSBuildProjectName)\</OutputPath>
   </PropertyGroup>
   <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <AssemblyName>Sharper.C.Box</AssemblyName>

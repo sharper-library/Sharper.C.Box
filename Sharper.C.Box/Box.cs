@@ -1,7 +1,6 @@
 ﻿namespace Sharper.C
 {
     public sealed class Box<A>
-        where A : struct
     {
         internal Box(A a)
         {

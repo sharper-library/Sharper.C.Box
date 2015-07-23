@@ -1,16 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22823.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F66046C1-E4FC-447F-AE17-7298DD5C9C5F}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{13099199-57B7-4E64-A425-D8D704768870}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Sharper.C.Box", "src\Sharper.C.Box\Sharper.C.Box.xproj", "{DDDB9E31-ADB7-4879-82A7-779C8A849ED7}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Sharper.C.Box", "Sharper.C.Box\Sharper.C.Box.xproj", "{DDDB9E31-ADB7-4879-82A7-779C8A849ED7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,8 +18,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{DDDB9E31-ADB7-4879-82A7-779C8A849ED7} = {F66046C1-E4FC-447F-AE17-7298DD5C9C5F}
 	EndGlobalSection
 EndGlobal

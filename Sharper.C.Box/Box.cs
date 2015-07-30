@@ -1,4 +1,4 @@
-﻿namespace Sharper.C
+﻿namespace Sharper.C.Data
 {
     public sealed class Box<A>
     {

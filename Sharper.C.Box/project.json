@@ -3,11 +3,11 @@
     "description": "A box for value types.",
     "authors": [ "Jeremy Hughes" ],
     "tags": [ "" ],
-    "projectUrl": "",
-    "licenseUrl": "",
+    "projectUrl": "https://github.com/sharper-library/Sharper.C.Box",
+    "licenseUrl": "https://raw.githubusercontent.com/sharper-library/Sharper.C.Box/master/LICENSE.txt",
 
     "dependencies": {
-        "System.Runtime": "4.0"
+        "System.Runtime": "4.0.20"
     },
 
     "frameworks": {

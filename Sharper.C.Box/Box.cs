@@ -28,7 +28,6 @@
     public static class Box
     {
         public static Box<A> Mk<A>(A a)
-            where A : struct
             => new Box<A>(a);
     }
 }
